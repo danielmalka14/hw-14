@@ -1,0 +1,3 @@
+- hosts: localhost
+  roles:
+  - /home/daniel/Documents/Ansible/ansible-demo/roles/common/tasks
